@@ -1,0 +1,40 @@
+# 忽略编译生成的文件
+bin/
+obj/
+build/
+
+# 忽略用户特定的文件
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 忽略 IDE 文件夹
+.vs/
+.vscode/
+.idea/
+
+# 忽略包文件夹
+packages/
+
+# 忽略发布输出
+publish/
+Release/
+Debug/
+
+# 忽略测试结果
+TestResults/
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略临时文件
+temp/
+tmp/
+
+# 忽略 .NET Core 本地工具
+.dotnet/
+
+# 忽略项目特定的文件
+appsettings.Development.json
