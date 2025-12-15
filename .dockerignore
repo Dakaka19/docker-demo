@@ -1,0 +1,8 @@
+Dockerfile
+[Bb]in/
+[Oo]bj/
+.git/
+.vs/
+.vscode/
+*.user
+*.suo
